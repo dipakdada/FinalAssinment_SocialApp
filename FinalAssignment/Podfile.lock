@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.8.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - FMDB
+  - SQLite.swift (~> 0.12.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FMDB
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 2f30a4af207a373dbae8e2ca95d8c9450bcf7e40
+
+COCOAPODS: 1.9.1
